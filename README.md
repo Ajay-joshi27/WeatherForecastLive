@@ -32,7 +32,7 @@ To run this application locally, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Ajay-joshi27/WeatherForecastLive.git>
    ```
 2. Open the `index.html` file in your web browser.
 
@@ -55,9 +55,7 @@ Replace `gulbarga` with your desired city name and `YOUR_API_KEY` with your Open
 
 If you wish to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
 
